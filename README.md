@@ -1,2 +1,2 @@
-# SL-JavaScript-Labs
+# SoloLearn Labs
 JavaScript Labs
